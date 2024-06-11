@@ -1,0 +1,15 @@
+D:\Documentos D\UTN\Programacion 3\TP Integrador\Proyecto 1\DataEF\bin\Debug\net8.0\DataEF.deps.json
+D:\Documentos D\UTN\Programacion 3\TP Integrador\Proyecto 1\DataEF\bin\Debug\net8.0\DataEF.dll
+D:\Documentos D\UTN\Programacion 3\TP Integrador\Proyecto 1\DataEF\bin\Debug\net8.0\DataEF.pdb
+D:\Documentos D\UTN\Programacion 3\TP Integrador\Proyecto 1\DataEF\bin\Debug\net8.0\Entities.dll
+D:\Documentos D\UTN\Programacion 3\TP Integrador\Proyecto 1\DataEF\bin\Debug\net8.0\Entities.pdb
+D:\Documentos D\UTN\Programacion 3\TP Integrador\Proyecto 1\DataEF\obj\Debug\net8.0\DataEF.csproj.AssemblyReference.cache
+D:\Documentos D\UTN\Programacion 3\TP Integrador\Proyecto 1\DataEF\obj\Debug\net8.0\DataEF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos D\UTN\Programacion 3\TP Integrador\Proyecto 1\DataEF\obj\Debug\net8.0\DataEF.AssemblyInfoInputs.cache
+D:\Documentos D\UTN\Programacion 3\TP Integrador\Proyecto 1\DataEF\obj\Debug\net8.0\DataEF.AssemblyInfo.cs
+D:\Documentos D\UTN\Programacion 3\TP Integrador\Proyecto 1\DataEF\obj\Debug\net8.0\DataEF.csproj.CoreCompileInputs.cache
+D:\Documentos D\UTN\Programacion 3\TP Integrador\Proyecto 1\DataEF\obj\Debug\net8.0\DataEF.csproj.Up2Date
+D:\Documentos D\UTN\Programacion 3\TP Integrador\Proyecto 1\DataEF\obj\Debug\net8.0\DataEF.dll
+D:\Documentos D\UTN\Programacion 3\TP Integrador\Proyecto 1\DataEF\obj\Debug\net8.0\refint\DataEF.dll
+D:\Documentos D\UTN\Programacion 3\TP Integrador\Proyecto 1\DataEF\obj\Debug\net8.0\DataEF.pdb
+D:\Documentos D\UTN\Programacion 3\TP Integrador\Proyecto 1\DataEF\obj\Debug\net8.0\ref\DataEF.dll

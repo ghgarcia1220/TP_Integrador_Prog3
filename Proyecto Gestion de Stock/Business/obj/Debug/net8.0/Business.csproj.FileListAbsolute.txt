@@ -1,0 +1,17 @@
+D:\Documentos D\UTN\Programacion 3\TP Integrador\Proyecto 1\Business\bin\Debug\net8.0\Business.deps.json
+D:\Documentos D\UTN\Programacion 3\TP Integrador\Proyecto 1\Business\bin\Debug\net8.0\Business.dll
+D:\Documentos D\UTN\Programacion 3\TP Integrador\Proyecto 1\Business\bin\Debug\net8.0\Business.pdb
+D:\Documentos D\UTN\Programacion 3\TP Integrador\Proyecto 1\Business\bin\Debug\net8.0\DataEF.dll
+D:\Documentos D\UTN\Programacion 3\TP Integrador\Proyecto 1\Business\bin\Debug\net8.0\Entities.dll
+D:\Documentos D\UTN\Programacion 3\TP Integrador\Proyecto 1\Business\bin\Debug\net8.0\DataEF.pdb
+D:\Documentos D\UTN\Programacion 3\TP Integrador\Proyecto 1\Business\bin\Debug\net8.0\Entities.pdb
+D:\Documentos D\UTN\Programacion 3\TP Integrador\Proyecto 1\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+D:\Documentos D\UTN\Programacion 3\TP Integrador\Proyecto 1\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos D\UTN\Programacion 3\TP Integrador\Proyecto 1\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+D:\Documentos D\UTN\Programacion 3\TP Integrador\Proyecto 1\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+D:\Documentos D\UTN\Programacion 3\TP Integrador\Proyecto 1\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+D:\Documentos D\UTN\Programacion 3\TP Integrador\Proyecto 1\Business\obj\Debug\net8.0\Business.csproj.Up2Date
+D:\Documentos D\UTN\Programacion 3\TP Integrador\Proyecto 1\Business\obj\Debug\net8.0\Business.dll
+D:\Documentos D\UTN\Programacion 3\TP Integrador\Proyecto 1\Business\obj\Debug\net8.0\refint\Business.dll
+D:\Documentos D\UTN\Programacion 3\TP Integrador\Proyecto 1\Business\obj\Debug\net8.0\Business.pdb
+D:\Documentos D\UTN\Programacion 3\TP Integrador\Proyecto 1\Business\obj\Debug\net8.0\ref\Business.dll
